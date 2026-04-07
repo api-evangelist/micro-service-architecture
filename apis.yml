@@ -11,9 +11,8 @@ url: >-
   https://raw.githubusercontent.com/api-evangelist/micro-service-architecture/refs/heads/main/apis.yml
 tags:
   - Architecture
-  - Microservices
   - Distributed Systems
-  - API
+  - Microservices
   - Scalability
 created: '2025-01-01'
 modified: '2026-03-16'
